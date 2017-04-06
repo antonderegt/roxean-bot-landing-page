@@ -1,3 +1,14 @@
-.layout{
+#roxean {
+  background-color: white;
+  padding: 50px;
+}
+
+#instructions {
+  background-color: #03A9F4;
+  padding: 50px;
+}
+
+#contact {
+  background-color: white;
   padding: 50px;
 }
