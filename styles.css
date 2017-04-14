@@ -1,14 +1,12 @@
 #roxean {
-  background-color: white;
   padding: 50px;
 }
 
 #instructions {
-  background-color: #03A9F4;
+  background-color: #f1f7f1;
   padding: 50px;
 }
 
-#contact {
-  background-color: white;
-  padding: 50px;
+p {
+  font-size: 16px;
 }
